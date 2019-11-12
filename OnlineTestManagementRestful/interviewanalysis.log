@@ -1,0 +1,68 @@
+2019-11-12 12:53:20,580 INFO com.cg.InterviewAnalysisRestful.OnlineTestManagementRestfulApplication [main] Starting OnlineTestManagementRestfulApplication on DESKTOP-MCCT2EE with PID 2076 (C:\Users\HP\git\repository3\OnlineTestManagementRestful\target\classes started by HP in C:\Users\HP\git\repository3\OnlineTestManagementRestful)
+2019-11-12 12:53:20,584 DEBUG com.cg.InterviewAnalysisRestful.OnlineTestManagementRestfulApplication [main] Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-12 12:53:20,585 INFO com.cg.InterviewAnalysisRestful.OnlineTestManagementRestfulApplication [main] No active profile set, falling back to default profiles: default
+2019-11-12 12:53:22,498 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-11-12 12:53:22,500 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-12 12:53:22,912 INFO org.apache.jasper.servlet.TldScanner [main] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-12 12:53:22,921 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2019-11-12 12:53:23,164 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2019-11-12 12:53:23,317 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2019-11-12 12:53:23,377 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-12 12:53:23,626 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.12.Final}
+2019-11-12 12:53:23,628 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2019-11-12 12:53:23,792 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-12 12:53:23,967 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-11-12 12:53:25,630 DEBUG com.cg.InterviewAnalysisRestful.config.JwtRequestFilter [main] Filter 'jwtRequestFilter' configured for use
+2019-11-12 12:53:25,752 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory
+2019-11-12 12:53:26,646 INFO com.cg.InterviewAnalysisRestful.OnlineTestManagementRestfulApplication [main] Started OnlineTestManagementRestfulApplication in 6.583 seconds (JVM running for 7.727)
+2019-11-12 12:56:23,913 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2019-11-12 12:56:23,920 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2019-11-12 12:56:28,068 INFO com.cg.InterviewAnalysisRestful.OnlineTestManagementRestfulApplication [main] Starting OnlineTestManagementRestfulApplication on DESKTOP-MCCT2EE with PID 1628 (C:\Users\HP\git\repository3\OnlineTestManagementRestful\target\classes started by HP in C:\Users\HP\git\repository3\OnlineTestManagementRestful)
+2019-11-12 12:56:28,072 DEBUG com.cg.InterviewAnalysisRestful.OnlineTestManagementRestfulApplication [main] Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-12 12:56:28,077 INFO com.cg.InterviewAnalysisRestful.OnlineTestManagementRestfulApplication [main] No active profile set, falling back to default profiles: default
+2019-11-12 12:56:29,917 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-11-12 12:56:29,918 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-12 12:56:30,280 INFO org.apache.jasper.servlet.TldScanner [main] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-12 12:56:30,287 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2019-11-12 12:56:30,564 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2019-11-12 12:56:30,760 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2019-11-12 12:56:30,838 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-12 12:56:31,078 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.12.Final}
+2019-11-12 12:56:31,081 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2019-11-12 12:56:31,257 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-12 12:56:31,441 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-11-12 12:56:33,208 DEBUG com.cg.InterviewAnalysisRestful.config.JwtRequestFilter [main] Filter 'jwtRequestFilter' configured for use
+2019-11-12 12:56:33,336 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory
+2019-11-12 12:56:34,331 INFO com.cg.InterviewAnalysisRestful.OnlineTestManagementRestfulApplication [main] Started OnlineTestManagementRestfulApplication in 6.796 seconds (JVM running for 8.112)
+2019-11-12 12:56:59,385 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9088-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-12 12:56:59,427 WARN com.cg.InterviewAnalysisRestful.config.JwtRequestFilter [http-nio-9088-exec-1] JWT Token does not begin with Bearer String
+2019-11-12 13:01:58,773 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2019-11-12 13:01:58,781 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2019-11-12 13:05:43,779 INFO com.cg.InterviewAnalysisRestful.InterviewAnalysis [main] Starting InterviewAnalysis on DESKTOP-MCCT2EE with PID 10156 (C:\Users\HP\git\repository3\OnlineTestManagementRestful\target\classes started by HP in C:\Users\HP\git\repository3\OnlineTestManagementRestful)
+2019-11-12 13:05:43,779 DEBUG com.cg.InterviewAnalysisRestful.InterviewAnalysis [main] Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-12 13:05:43,779 INFO com.cg.InterviewAnalysisRestful.InterviewAnalysis [main] No active profile set, falling back to default profiles: default
+2019-11-12 13:05:45,692 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-11-12 13:05:45,695 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-12 13:05:46,028 INFO org.apache.jasper.servlet.TldScanner [main] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-12 13:05:46,045 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2019-11-12 13:05:46,255 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2019-11-12 13:05:46,405 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2019-11-12 13:05:46,463 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-12 13:05:46,697 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.12.Final}
+2019-11-12 13:05:46,700 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2019-11-12 13:05:46,852 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-12 13:05:47,022 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-11-12 13:05:48,614 DEBUG com.cg.InterviewAnalysisRestful.config.JwtRequestFilter [main] Filter 'jwtRequestFilter' configured for use
+2019-11-12 13:05:48,748 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory
+2019-11-12 13:05:49,513 INFO com.cg.InterviewAnalysisRestful.InterviewAnalysis [main] Started InterviewAnalysis in 6.238 seconds (JVM running for 7.36)
+2019-11-12 13:06:10,057 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9088-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-12 13:06:10,104 WARN com.cg.InterviewAnalysisRestful.config.JwtRequestFilter [http-nio-9088-exec-1] JWT Token does not begin with Bearer String
+2019-11-12 13:06:46,476 WARN com.cg.InterviewAnalysisRestful.config.JwtRequestFilter [http-nio-9088-exec-2] JWT Token does not begin with Bearer String
+2019-11-12 13:08:32,285 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2019-11-12 13:08:32,293 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown completed.

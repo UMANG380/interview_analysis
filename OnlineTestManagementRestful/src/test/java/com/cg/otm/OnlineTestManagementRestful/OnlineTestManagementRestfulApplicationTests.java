@@ -17,11 +17,11 @@ import org.springframework.boot.test.web.client.TestRestTemplate;
 
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.cg.otm.OnlineTestManagementRestful.dto.OnlineTest;
-import com.cg.otm.OnlineTestManagementRestful.dto.Question;
-import com.cg.otm.OnlineTestManagementRestful.dto.User;
-import com.cg.otm.OnlineTestManagementRestful.exception.UserException;
-import com.cg.otm.OnlineTestManagementRestful.service.OnlineTestService;
+import com.cg.InterviewAnalysisRestful.dto.OnlineTest;
+import com.cg.InterviewAnalysisRestful.dto.Question;
+import com.cg.InterviewAnalysisRestful.dto.User;
+import com.cg.InterviewAnalysisRestful.exception.UserException;
+import com.cg.InterviewAnalysisRestful.service.OnlineTestService;
 
 
 @RunWith(SpringRunner.class)
