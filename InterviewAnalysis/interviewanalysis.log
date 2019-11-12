@@ -87,3 +87,28 @@
 2019-11-12 13:16:11,726 INFO com.cg.InterviewAnalysisRestful.InterviewAnalysis [main] Started InterviewAnalysis in 9.359 seconds (JVM running for 10.7)
 2019-11-12 13:16:39,142 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9088-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
 2019-11-12 13:16:39,176 WARN com.cg.InterviewAnalysisRestful.config.JwtRequestFilter [http-nio-9088-exec-1] JWT Token does not begin with Bearer String
+2019-11-12 13:21:07,747 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2019-11-12 13:21:07,755 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2019-11-12 13:21:11,644 INFO com.cg.InterviewAnalysisRestful.InterviewAnalysis [main] Starting InterviewAnalysis on DESKTOP-MCCT2EE with PID 6900 (C:\Users\HP\git\repository3\InterviewAnalysis\target\classes started by HP in C:\Users\HP\git\repository3\InterviewAnalysis)
+2019-11-12 13:21:11,644 DEBUG com.cg.InterviewAnalysisRestful.InterviewAnalysis [main] Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-12 13:21:11,644 INFO com.cg.InterviewAnalysisRestful.InterviewAnalysis [main] No active profile set, falling back to default profiles: default
+2019-11-12 13:21:13,361 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-11-12 13:21:13,362 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-12 13:21:13,675 INFO org.apache.jasper.servlet.TldScanner [main] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-12 13:21:13,690 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2019-11-12 13:21:13,895 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2019-11-12 13:21:14,035 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2019-11-12 13:21:14,098 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-12 13:21:14,332 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.12.Final}
+2019-11-12 13:21:14,332 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2019-11-12 13:21:14,491 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-12 13:21:14,651 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-11-12 13:21:16,293 DEBUG com.cg.InterviewAnalysisRestful.config.JwtRequestFilter [main] Filter 'jwtRequestFilter' configured for use
+2019-11-12 13:21:16,409 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory
+2019-11-12 13:21:17,219 INFO com.cg.InterviewAnalysisRestful.InterviewAnalysis [main] Started InterviewAnalysis in 6.052 seconds (JVM running for 7.173)
+2019-11-12 13:21:36,916 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9088-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-12 13:21:36,990 WARN com.cg.InterviewAnalysisRestful.config.JwtRequestFilter [http-nio-9088-exec-1] JWT Token does not begin with Bearer String
+2019-11-12 13:21:46,617 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2019-11-12 13:21:46,624 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown completed.
